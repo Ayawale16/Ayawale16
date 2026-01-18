@@ -5,7 +5,6 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎯 Focused on **Placements & SDE Interviews**
 - 💻 Strong in **Java, DSA, DBMS, OS, CN**
 - 🌐 Building projects using **Node.js, Express, MongoDB**
 - 🔥 Interested in **System Design & Scalable Backend**
