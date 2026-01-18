@@ -1,6 +1,6 @@
 # Hi 👋, I'm Atharva Yawale
 
-🚀 Aspiring Software Developer | Java + DSA | Full Stack (Node.js) | System Design | IoT Enthusiast  
+🚀 Aspiring Software Developer | Java + DSA | Full Stack (MERN) | System Design 
 
 ---
 
