@@ -39,17 +39,17 @@
 - Provides **real-time guidance & correction feedback**
 - Applications: gym workout form, yoga pose correction, ergonomic sitting posture
   
-📌 Repo: (Add your project link here)
+
 
 ### 🔹 Full Stack Project (Node.js + MongoDB)
 - JWT Authentication
 - CRUD operations + secure APIs
-📌 Repo: (Add your project link here)
+
 
 ### 🔹 DSA in Java
 - Topic-wise problems
 - Interview-focused solutions  
-📌 Repo: (Add your DSA repo link here)
+
 
 ---
 
@@ -60,18 +60,14 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
 
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: [(paste your link)](https://www.linkedin.com/in/atharva-yawale-90031733a/)
-- 📧 Email: (your email)yawaleatharva@gmail.com
-- 🧠 LeetCode: [(paste your link)](https://leetcode.com/u/A_yawale01/)
-
+- 💼 LinkedIn: [(https://www.linkedin.com/in/atharva-yawale-90031733a/)]
+- 📧 Email: (yawaleatharva@gmail.com)
+- 🧠 LeetCode: [(https://leetcode.com/u/A_yawale01/)]
+)]
 ---
 
 ⭐ If you like my work, consider giving a star to my repositories!
